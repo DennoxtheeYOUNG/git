@@ -1,0 +1,70 @@
+body{
+	margin:0;
+	padding:20px;
+	font-size:100%;
+	background:url(../images/pl.jpg);
+}
+
+}
+.begin{
+	text-align:center;
+	  }
+.links a{
+	  color:blue;
+	  text-decoration:none;
+	  font-size:20px;
+	  text-decoration:uppercase;
+   }
+.links li{
+	list-style:none;
+	float:right;
+	display:inline;
+	padding:0 10px 0 10px;
+}
+.image img{
+	margin:0;
+	height:500px;
+	width:950px;
+}
+h3{margin:0;}
+
+.one{width:200px;
+	height:200px;
+	float:left;
+	margin-right:1em;
+}
+.two{
+	width:200px;
+	height:200px;
+	float:left;
+	margin-right:1em;
+}
+
+.three{
+	width:200px;
+	height:200px;
+	float:left;
+	margin-right:1em;
+}
+
+td{
+	border-top:1px solid black;
+	border-left:1px solid black;
+}
+#creative{
+	color:orange;
+}
+#urban{
+	color:blue;
+}
+#worship{
+	color:green;
+}
+
+
+.footer{
+	margin:0;
+	font:none;
+	clear:both;
+}
+
